@@ -1,3 +1,4 @@
+<img width="1487" height="380" alt="1" src="https://github.com/user-attachments/assets/40017142-9f2c-4512-aa51-b042e6185da0" />
 # S1lent DDoS Tool – Multi‑Layer Stress Tester
 
 ![made by S1lent](https://img.shields.io/badge/made%20by-S1lent-red)
