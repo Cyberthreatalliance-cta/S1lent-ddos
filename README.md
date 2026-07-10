@@ -4,7 +4,7 @@
 ![made by S1lent](https://img.shields.io/badge/made%20by-S1lent-red)
 ![discord](https://img.shields.io/badge/Discord-s1lent0x1-blue)
 
-A highly advanced, multi‑protocol DDoS simulation framework for security testing and network stress analysis.  
+multi‑protocol DDoS simulation framework for security testing and network stress analysis.  
 Supports all OSI layers (3, 4, 7) plus amplification vectors and multi‑vector starvation attacks.
 
 ## Disclaimer
